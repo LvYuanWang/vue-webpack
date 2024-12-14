@@ -1,0 +1,16 @@
+:root {
+  --globalFontColor: #333;
+  --globalBackgroundColor: #f0f0f0;
+  --globalFontSize: 16px;
+  --globalContainerSize: 60%;
+  --nightFontColor: #f0f0f0;
+  --nightBackgroundColor: #333;
+}
+
+body {
+  background-color: var(--globalBackgroundColor);
+}
+
+input {
+  border: none;
+}
